@@ -1,0 +1,1836 @@
+{
+  "updated_at": "2026-05-28T06:06:39.828217+00:00",
+  "channel": "https://www.youtube.com/@VBAnatomy/videos",
+  "min_duration_secs": 120,
+  "total_channel_videos_ge2min": 269,
+  "missing_count": 203,
+  "videos": [
+    {
+      "id": "Imppldt-SWg",
+      "title": "Corticospinal Tract (Pyramidal Tract) Made Easy | Draw and Understand CNS Pathways",
+      "url": "https://www.youtube.com/watch?v=Imppldt-SWg",
+      "duration": 478.0,
+      "duration_str": "7:58",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "J9t7WyDEq4o",
+      "title": "Spinocerebellar Tracts Made Easy | How to Draw & Understand CNS Pathways | VB Anatomy",
+      "url": "https://www.youtube.com/watch?v=J9t7WyDEq4o",
+      "duration": 627.0,
+      "duration_str": "10:27",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "FWk-Qi1Pj0Y",
+      "title": "How to Study Anatomy for University Theory Exams | Complete Strategy & Study Plan",
+      "url": "https://www.youtube.com/watch?v=FWk-Qi1Pj0Y",
+      "duration": 1108.0,
+      "duration_str": "18:28",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "lnw4GJKPQPQ",
+      "title": "Can You Answer Jugular Foramen? 😨 | MBBS, Norma Basalis Osteology Viva",
+      "url": "https://www.youtube.com/watch?v=lnw4GJKPQPQ",
+      "duration": 182.0,
+      "duration_str": "3:02",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "KkrjOutHr3U",
+      "title": "Foramen Magnum Made Easy | Most Important Osteology Viva Question",
+      "url": "https://www.youtube.com/watch?v=KkrjOutHr3U",
+      "duration": 282.0,
+      "duration_str": "4:42",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "scNTEqUofSw",
+      "title": "Placenta Part 2 | Structure, Placental Barrier & Clinical Correlations | Embryology Made Easy 🧠✨",
+      "url": "https://www.youtube.com/watch?v=scNTEqUofSw",
+      "duration": 1312.0,
+      "duration_str": "21:52",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "5zdyJkL6Oy4",
+      "title": "Placenta Part 1 | Development, Chorionic Villi | Embryology Made Easy 🧠✨",
+      "url": "https://www.youtube.com/watch?v=5zdyJkL6Oy4",
+      "duration": 1383.0,
+      "duration_str": "23:03",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "hg7N7hBCIII",
+      "title": "The Philosophy of Studying Anatomy | Why Anatomy Matters for Every Medical Professional",
+      "url": "https://www.youtube.com/watch?v=hg7N7hBCIII",
+      "duration": 474.0,
+      "duration_str": "7:54",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "2tGuMN7Vr2A",
+      "title": "Lymphatic Drainage of Lung | Lung Lymph Nodes, Bronchogenic Carcinoma & Applied Anatomy",
+      "url": "https://www.youtube.com/watch?v=2tGuMN7Vr2A",
+      "duration": 243.0,
+      "duration_str": "4:03",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "x3WtA3Bw4Fg",
+      "title": "Gastrulation | 3rd Week Embryology Explained Simply | MBBS Anatomy",
+      "url": "https://www.youtube.com/watch?v=x3WtA3Bw4Fg",
+      "duration": 1314.0,
+      "duration_str": "21:54",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "S2vr8r1MXa0",
+      "title": "Bronchopulmonary Segments | Quick Revision for Exams I Important LAQ",
+      "url": "https://www.youtube.com/watch?v=S2vr8r1MXa0",
+      "duration": 1340.0,
+      "duration_str": "22:20",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "Qjc5GOy9SBk",
+      "title": "Second Week Embryology – Decidua, Villi & Embryo Growth Made Easy",
+      "url": "https://www.youtube.com/watch?v=Qjc5GOy9SBk",
+      "duration": 1339.0,
+      "duration_str": "22:19",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "MbZA-4vO_d4",
+      "title": "Dorsal column pathway (Medial lemniscus) diagram I Draw & Label I (Draw and Learn CNS - Part 3)",
+      "url": "https://www.youtube.com/watch?v=MbZA-4vO_d4",
+      "duration": 950.0,
+      "duration_str": "15:50",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "VSHq-Aj-fj0",
+      "title": "Spinal Cord Diagram | Draw & Label + Ascending & Descending Tracts (Draw & Learn CNS – Part 1)",
+      "url": "https://www.youtube.com/watch?v=VSHq-Aj-fj0",
+      "duration": 585.0,
+      "duration_str": "9:45",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "HHpfBqvf-aA",
+      "title": "Lateral Spinothalamic Tract (Pain Pathway) Diagram | (Draw & Learn CNS – Part 2)",
+      "url": "https://www.youtube.com/watch?v=HHpfBqvf-aA",
+      "duration": 526.0,
+      "duration_str": "8:46",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "AedkEe1rPVY",
+      "title": "Thoracic Outlet Syndrome Explained | Apex of Lung Anatomy, Relations & Clinical Logic | MBBS",
+      "url": "https://www.youtube.com/watch?v=AedkEe1rPVY",
+      "duration": 525.0,
+      "duration_str": "8:45",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "YEfd_0pY4o0",
+      "title": "Connective Tissue Histology | Cells, Fibers & Ground Substance Explained | MBBS, NEET PG",
+      "url": "https://www.youtube.com/watch?v=YEfd_0pY4o0",
+      "duration": 1157.0,
+      "duration_str": "19:17",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "8WzOTMimAQc",
+      "title": "Marfan Syndrome | FBN1 Mutation, Elastic Fibers, Clinical Features & MCQs Made Easy",
+      "url": "https://www.youtube.com/watch?v=8WzOTMimAQc",
+      "duration": 352.0,
+      "duration_str": "5:52",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "Jh_10Roa3zQ",
+      "title": "Median Nerve | Formation, Course, Branches & Applied Anatomy (15 Mark Question Made Easy)",
+      "url": "https://www.youtube.com/watch?v=Jh_10Roa3zQ",
+      "duration": 988.0,
+      "duration_str": "16:28",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "qo_14Tv7-Lc",
+      "title": "Structure of Bone (Histology) | Osteon, Lamellae, Osteoblasts, Bone Matrix | Medical Histology",
+      "url": "https://www.youtube.com/watch?v=qo_14Tv7-Lc",
+      "duration": 2076.0,
+      "duration_str": "34:36",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "oHxErt56Gmg",
+      "title": "Norma Basalis – Middle Part | Base of Skull Anatomy | Viva, Osteology & Exam Questions",
+      "url": "https://www.youtube.com/watch?v=oHxErt56Gmg",
+      "duration": 1803.0,
+      "duration_str": "30:03",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "uI_MTcq34G8",
+      "title": "Oogenesis Part 2 | Ovulation, Corpus Luteum & Ovum Formation | Human Embryology Made Easy",
+      "url": "https://www.youtube.com/watch?v=uI_MTcq34G8",
+      "duration": 1024.0,
+      "duration_str": "17:04",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "81BN6xEzs_c",
+      "title": "Lung Anatomy Part 2  Mediastinal Surface of Right & Left Lung, Hilum, Lung Root & Pulmonary Ligament",
+      "url": "https://www.youtube.com/watch?v=81BN6xEzs_c",
+      "duration": 1281.0,
+      "duration_str": "21:21",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "NAECXuSqCSw",
+      "title": "Intercostal Space Part 2 | Intercostal Nerve, Artery, Vein Explained Diagrams & Clinical Correlation",
+      "url": "https://www.youtube.com/watch?v=NAECXuSqCSw",
+      "duration": 1858.0,
+      "duration_str": "30:58",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "UXloYObwBeI",
+      "title": "Intercostal Space | Part 1 | Thoracic Wall, Boundaries & Intercostal Muscles Explained Clearly",
+      "url": "https://www.youtube.com/watch?v=UXloYObwBeI",
+      "duration": 1496.0,
+      "duration_str": "24:56",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "wONJVqpGxGw",
+      "title": "Arches of Foot Part 2 | Lateral Longitudinal Arch & Foot Deformities Explained",
+      "url": "https://www.youtube.com/watch?v=wONJVqpGxGw",
+      "duration": 1208.0,
+      "duration_str": "20:08",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "RUoVtuXrpg4",
+      "title": "Arches of Foot Part 1 | Concept, Functions & Medial Longitudinal Arch Explained",
+      "url": "https://www.youtube.com/watch?v=RUoVtuXrpg4",
+      "duration": 1924.0,
+      "duration_str": "32:04",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "icfprxIyE2c",
+      "title": "Sternocleidomastoid Muscle | Anatomy, Relations, Nerve Supply & Clinical Importance",
+      "url": "https://www.youtube.com/watch?v=icfprxIyE2c",
+      "duration": 589.0,
+      "duration_str": "9:49",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "lOzRw-Xnvas",
+      "title": "Lung Anatomy | Part 1 – Apex, Base, Costal Surface & Viva Orientation",
+      "url": "https://www.youtube.com/watch?v=lOzRw-Xnvas",
+      "duration": 1436.0,
+      "duration_str": "23:56",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "o1X1UfKAyG4",
+      "title": "Supraclavicular Triangle Anatomy | Boundaries, Floor & Contents | Posterior Triangle of Neck",
+      "url": "https://www.youtube.com/watch?v=o1X1UfKAyG4",
+      "duration": 552.0,
+      "duration_str": "9:12",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "uihsYNvtFm0",
+      "title": "Ulnar Nerve Anatomy | Course, Branches & Applied Clinical Correlation",
+      "url": "https://www.youtube.com/watch?v=uihsYNvtFm0",
+      "duration": 1398.0,
+      "duration_str": "23:18",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "a8hi5pRx6PU",
+      "title": "Carotid Sheath – Short Note with Diagrams | Formation, Contents, Relations & Applied Anatomy",
+      "url": "https://www.youtube.com/watch?v=a8hi5pRx6PU",
+      "duration": 621.0,
+      "duration_str": "10:21",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "-B_aFbtOTDU",
+      "title": "Muscle Histology Diagrams | How to Draw Skeletal, Cardiac & Smooth Muscle (TS & LS)",
+      "url": "https://www.youtube.com/watch?v=-B_aFbtOTDU",
+      "duration": 805.0,
+      "duration_str": "13:25",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "Kp381IB3j7E",
+      "title": "Embryology: Cleavage, Blastulation & Implantation | First Week of Human Development Explained",
+      "url": "https://www.youtube.com/watch?v=Kp381IB3j7E",
+      "duration": 1364.0,
+      "duration_str": "22:44",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "AzC3om9w8Y4",
+      "title": "Popliteal Fossa – Complete Anatomy with Diagrams, Nerves, Vessels & Clinical Correlation",
+      "url": "https://www.youtube.com/watch?v=AzC3om9w8Y4",
+      "duration": 1703.0,
+      "duration_str": "28:23",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "yF4sAaH5RMw",
+      "title": "Humerus Part 2 | Shaft & Lower End of Humerus | Osteology, Ossification & Viva Anatomy",
+      "url": "https://www.youtube.com/watch?v=yF4sAaH5RMw",
+      "duration": 1549.0,
+      "duration_str": "25:49",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "rrh_eM84RU4",
+      "title": "Humerus Part 1 | Osteology of Humerus | Upper End, Rotator Cuff & Surgical Anatomy",
+      "url": "https://www.youtube.com/watch?v=rrh_eM84RU4",
+      "duration": 1529.0,
+      "duration_str": "25:29",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "BDN2lP2sd_g",
+      "title": "Oogenesis Part 1 | Journey from Primordial Germ Cell to Secondary Oocyte | Embryology Explained",
+      "url": "https://www.youtube.com/watch?v=BDN2lP2sd_g",
+      "duration": 1359.0,
+      "duration_str": "22:39",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "cj02EV-41Xk",
+      "title": "Larynx – Cricoid Cartilage | Membranes, Muscles & Ligaments",
+      "url": "https://www.youtube.com/watch?v=cj02EV-41Xk",
+      "duration": 1536.0,
+      "duration_str": "25:36",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "tBxemE8AGYI",
+      "title": "Spermatogenesis | Step-by-Step Process Explained with Diagrams",
+      "url": "https://www.youtube.com/watch?v=tBxemE8AGYI",
+      "duration": 1189.0,
+      "duration_str": "19:49",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "c4S5d2l5tLQ",
+      "title": "How to Draw the Structure of Sperm | Labeled Diagram",
+      "url": "https://www.youtube.com/watch?v=c4S5d2l5tLQ",
+      "duration": 303.0,
+      "duration_str": "5:03",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "4JFi5qik0no",
+      "title": "Connective Tissue Histology Explained | High-Yield Slides & Diagrams",
+      "url": "https://www.youtube.com/watch?v=4JFi5qik0no",
+      "duration": 955.0,
+      "duration_str": "15:55",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "hc5Ym93iOO8",
+      "title": "Hand of Benediction Explained | High Median Nerve Injury | Anatomy & Clinical Correlation",
+      "url": "https://www.youtube.com/watch?v=hc5Ym93iOO8",
+      "duration": 346.0,
+      "duration_str": "5:46",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "B0n9rI2PefM",
+      "title": "Title: Axilla: Boundaries, Walls & Brachial Plexus Overview",
+      "url": "https://www.youtube.com/watch?v=B0n9rI2PefM",
+      "duration": 1766.0,
+      "duration_str": "29:26",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "7erVLc9Dcx0",
+      "title": "Bell’s Palsy Explained |Facial Nerve Lesion Localization Made Simple| Anatomy & Clinical Correlation",
+      "url": "https://www.youtube.com/watch?v=7erVLc9Dcx0",
+      "duration": 460.0,
+      "duration_str": "7:40",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "QAEszoVhC7Q",
+      "title": "Forearm Muscles Made Easy | Draw & Label Method | Flexor & Extensor Muscles Anatomy",
+      "url": "https://www.youtube.com/watch?v=QAEszoVhC7Q",
+      "duration": 1100.0,
+      "duration_str": "18:20",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "AREj9Efi24s",
+      "title": "Norma Basalis Part 1 | Osteology of Skull Base | Hard Palate, Sutures & Palatine Foramina Explained",
+      "url": "https://www.youtube.com/watch?v=AREj9Efi24s",
+      "duration": 894.0,
+      "duration_str": "14:54",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "XxkD9sC3PxE",
+      "title": "Brachial Plexus Made Easy | Roots, Trunks, Divisions, Cords & Branches Explained with Clear Diagrams",
+      "url": "https://www.youtube.com/watch?v=XxkD9sC3PxE",
+      "duration": 828.0,
+      "duration_str": "13:48",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "Tu-7N1nA3kQ",
+      "title": "How to Draw the Popliteal Fossa | Step-by-Step Anatomy Diagram | VB Anatomy Sketch & Recall",
+      "url": "https://www.youtube.com/watch?v=Tu-7N1nA3kQ",
+      "duration": 443.0,
+      "duration_str": "7:23",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "Z69_y7Bi48I",
+      "title": "Erb’s Palsy & Klumpke’s Palsy Explained | Simplest Anatomy Breakdown.",
+      "url": "https://www.youtube.com/watch?v=Z69_y7Bi48I",
+      "duration": 384.0,
+      "duration_str": "6:24",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "3_iy4DMhseU",
+      "title": "How to Draw structures Under the Gluteus Maximus | Easy Step-by-Step Anatomy Diagram",
+      "url": "https://www.youtube.com/watch?v=3_iy4DMhseU",
+      "duration": 488.0,
+      "duration_str": "8:08",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "HvZ-zXQLpZM",
+      "title": "Pleural Effusion | Anatomy, Signs, X-Ray, Thoracocentesis, Fluid Types & Costodiaphragmatic Recess",
+      "url": "https://www.youtube.com/watch?v=HvZ-zXQLpZM",
+      "duration": 404.0,
+      "duration_str": "6:44",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "_fDHWfo-Bl8",
+      "title": "Anatomy of Anal Canal Made Easy | Pectinate Line, Sphincters, Venous Plexuses & Applied Anatomy",
+      "url": "https://www.youtube.com/watch?v=_fDHWfo-Bl8",
+      "duration": 969.0,
+      "duration_str": "16:09",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "fa6BlLidiTM",
+      "title": "Pneumothorax Explained | Anatomy, Causes, Open vs Tension Pneumothorax & Clinical Signs",
+      "url": "https://www.youtube.com/watch?v=fa6BlLidiTM",
+      "duration": 384.0,
+      "duration_str": "6:24",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "bZ_bK9bgrbs",
+      "title": "Gross Anatomy of Rectum | Curvatures, Relations, and Interior Explained | Dr Vaishaly Bharambe",
+      "url": "https://www.youtube.com/watch?v=bZ_bK9bgrbs",
+      "duration": 682.0,
+      "duration_str": "11:22",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "4qBkg0AAKbo",
+      "title": "How to Draw Connective Tissue Histology Slides | Histology Journal Series",
+      "url": "https://www.youtube.com/watch?v=4qBkg0AAKbo",
+      "duration": 884.0,
+      "duration_str": "14:44",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "kca2gB8G5Mg",
+      "title": "Anatomical Terminology Part 2: Movements & Axes Explained with Live Demonstrations",
+      "url": "https://www.youtube.com/watch?v=kca2gB8G5Mg",
+      "duration": 968.0,
+      "duration_str": "16:08",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "OoGyDENeq6I",
+      "title": "Axilla Part 3 – Axillary Lymph Nodes Explained | Groups, Drainage, and Clinical Anatomy Simplified",
+      "url": "https://www.youtube.com/watch?v=OoGyDENeq6I",
+      "duration": 564.0,
+      "duration_str": "9:24",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "lv82_SYKhKo",
+      "title": "TYPES OF BONE: Classification Based on Shape by Dr Vaishaly Bharambe",
+      "url": "https://www.youtube.com/watch?v=lv82_SYKhKo",
+      "duration": 972.0,
+      "duration_str": "16:12",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "ydICRauMH3U",
+      "title": "Anatomical Terminology Made Easy (Part 1) | Basic Human Body Positions, Planes & Directions",
+      "url": "https://www.youtube.com/watch?v=ydICRauMH3U",
+      "duration": 1220.0,
+      "duration_str": "20:20",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "tmQ7vW3X4Lc",
+      "title": "Surface Anatomy–Surgical Perspective | Abdomen Part 2 | Surgeons Guide to Abdominal Surface Markings",
+      "url": "https://www.youtube.com/watch?v=tmQ7vW3X4Lc",
+      "duration": 1937.0,
+      "duration_str": "32:17",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "LhCGdaw3A0M",
+      "title": "LARYNX-Thyroid Cartilage Anatomy Made Easy | Ligaments, Muscles and Their Actions Explained",
+      "url": "https://www.youtube.com/watch?v=LhCGdaw3A0M",
+      "duration": 1203.0,
+      "duration_str": "20:03",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "t9iDstrnZps",
+      "title": "6th Cranial Nerve (Abducens Nerve) | Origin, Course & Clinical Anatomy Explained with Images",
+      "url": "https://www.youtube.com/watch?v=t9iDstrnZps",
+      "duration": 841.0,
+      "duration_str": "14:01",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "StB3okaJ6oE",
+      "title": "Surface Anatomy: Surgical perspective - Abdomen (Part-1) | Dr Vaishaly Bharambe",
+      "url": "https://www.youtube.com/watch?v=StB3okaJ6oE",
+      "duration": 1244.0,
+      "duration_str": "20:44",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "dXY1H6bfvBA",
+      "title": "Trigeminal Nerve (5th Cranial Nerve) Made Easy | Anatomy, Nuclei, Divisions & Clinical Correlation",
+      "url": "https://www.youtube.com/watch?v=dXY1H6bfvBA",
+      "duration": 2723.0,
+      "duration_str": "45:23",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "aSGwFR2atB4",
+      "title": "Thyroid Gland MCQs Explained | Complete Anatomy Revision for MBBS & NEET PG by Dr Vaishaly Bharambe",
+      "url": "https://www.youtube.com/watch?v=aSGwFR2atB4",
+      "duration": 1694.0,
+      "duration_str": "28:14",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "E3IeHUsIWkQ",
+      "title": "Trochlear Nerve (4th Cranial Nerve): Full Anatomy, Course, Connections & Peculiarities",
+      "url": "https://www.youtube.com/watch?v=E3IeHUsIWkQ",
+      "duration": 421.0,
+      "duration_str": "7:01",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "BUAkSqr75DE",
+      "title": "Bones of Foot Part 2 | Muscles of Foot Explained with Attachments & Actions",
+      "url": "https://www.youtube.com/watch?v=BUAkSqr75DE",
+      "duration": 1148.0,
+      "duration_str": "19:08",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "XQzKBplRdI8",
+      "title": "Breaking Myths about Organ and Body Donation in India | Save Lives, Inspire Generations",
+      "url": "https://www.youtube.com/watch?v=XQzKBplRdI8",
+      "duration": 3148.0,
+      "duration_str": "52:28",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "3vnbbxtbu_0",
+      "title": "Bones of Foot: Explained | Talus, Calcaneus, Navicular, Cuboid, Cuneiforms & Metatarsals",
+      "url": "https://www.youtube.com/watch?v=3vnbbxtbu_0",
+      "duration": 2434.0,
+      "duration_str": "40:34",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "AxYlqRj4TlY",
+      "title": "Blood Supply & Lesions of the Pons | Raymond’s, Millard-Gubler, CPA Syndrome & Tumors Explained",
+      "url": "https://www.youtube.com/watch?v=AxYlqRj4TlY",
+      "duration": 1137.0,
+      "duration_str": "18:57",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "v8DXVR65ycg",
+      "title": "Fibula – Anatomy, Attachments, Side Determination & Clinical Notes",
+      "url": "https://www.youtube.com/watch?v=v8DXVR65ycg",
+      "duration": 1706.0,
+      "duration_str": "28:26",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "Ui37doQUaQ4",
+      "title": "Third Cranial Nerve (Oculomotor Nerve) | Origin, Course, Functions & Applied Anatomy",
+      "url": "https://www.youtube.com/watch?v=Ui37doQUaQ4",
+      "duration": 892.0,
+      "duration_str": "14:52",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "CQRXN3FldDc",
+      "title": "Indirect Laryngoscopy Explained | Indirect vs Direct Laryngoscopy | Dr Vaishaly Bharambe",
+      "url": "https://www.youtube.com/watch?v=CQRXN3FldDc",
+      "duration": 464.0,
+      "duration_str": "7:44",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "uYORYrGMBus",
+      "title": "Patella – Anatomy, Attachments, Functions & Clinical Correlations",
+      "url": "https://www.youtube.com/watch?v=uYORYrGMBus",
+      "duration": 1415.0,
+      "duration_str": "23:35",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "JM1S1VDAdV0",
+      "title": "Larynx Anatomy, Epiglottis & Thyroid Cartilage | Build Your Own Model to Understand",
+      "url": "https://www.youtube.com/watch?v=JM1S1VDAdV0",
+      "duration": 2607.0,
+      "duration_str": "43:27",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "0uo-EUTPLSA",
+      "title": "Development of Brainstem |Embryology of Neural Tube, Rhombencephalon, Nuclei & Functional Components",
+      "url": "https://www.youtube.com/watch?v=0uo-EUTPLSA",
+      "duration": 1265.0,
+      "duration_str": "21:05",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "wyMdavUQfn0",
+      "title": "Tibia  | Shaft, Lower End, Attachments, Applied Anatomy & Ossification",
+      "url": "https://www.youtube.com/watch?v=wyMdavUQfn0",
+      "duration": 1400.0,
+      "duration_str": "23:20",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "CtQFdeRv7Vw",
+      "title": "Tibia  Side Identification, Upper End, Mnemonics & Clinical Notes",
+      "url": "https://www.youtube.com/watch?v=CtQFdeRv7Vw",
+      "duration": 1028.0,
+      "duration_str": "17:08",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "HZgesqbVlQo",
+      "title": "Cartilage Histology Made Easy | How to Draw Hyaline, Elastic & Fibrocartilage Diagrams",
+      "url": "https://www.youtube.com/watch?v=HZgesqbVlQo",
+      "duration": 783.0,
+      "duration_str": "13:03",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "5w-Vdk3wOx4",
+      "title": "Larynx Anatomy Made Easy | Understand the Larynx with Simple Diagrams",
+      "url": "https://www.youtube.com/watch?v=5w-Vdk3wOx4",
+      "duration": 1458.0,
+      "duration_str": "24:18",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "dhlFoi6dIXw",
+      "title": "Brainstem Anatomy: Parts, Functions & Cranial Nerves & Blood Supply Explained",
+      "url": "https://www.youtube.com/watch?v=dhlFoi6dIXw",
+      "duration": 1649.0,
+      "duration_str": "27:29",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "6vm0CKLQvoM",
+      "title": "HIP BONE Part 4/4 – Pubis, Acetabulum & Male–Female Hip Bone Differences",
+      "url": "https://www.youtube.com/watch?v=6vm0CKLQvoM",
+      "duration": 1223.0,
+      "duration_str": "20:23",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "7qudO2Oqg14",
+      "title": "HIP BONE – PART 3 of 4 | Ischium Anatomy Simplified",
+      "url": "https://www.youtube.com/watch?v=7qudO2Oqg14",
+      "duration": 1258.0,
+      "duration_str": "20:58",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "s0i6K57Ee_4",
+      "title": "HIP BONE – PART 2 of 4 | Greater Sciatic Notch, Foramina & Gluteal Attachments Simplified",
+      "url": "https://www.youtube.com/watch?v=s0i6K57Ee_4",
+      "duration": 1326.0,
+      "duration_str": "22:06",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "Kg0n742nRbw",
+      "title": "HIP BONE – PART 1 of 4 | Anatomical Position, Ilium",
+      "url": "https://www.youtube.com/watch?v=Kg0n742nRbw",
+      "duration": 1584.0,
+      "duration_str": "26:24",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "wTBFhvGyOUE",
+      "title": "Anatomy MCQ challenge-Head Face neck",
+      "url": "https://www.youtube.com/watch?v=wTBFhvGyOUE",
+      "duration": 396.0,
+      "duration_str": "6:36",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "6WznZMU_Eek",
+      "title": "Fallopian Tube Anatomy: A Comprehensive Guide for Medical Students",
+      "url": "https://www.youtube.com/watch?v=6WznZMU_Eek",
+      "duration": 1640.0,
+      "duration_str": "27:20",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "x_ExpT_1-AU",
+      "title": "How to Draw the Microscopic Structure of Salivary Glands | Serous, Mucous & Mixed Glands Made Easy",
+      "url": "https://www.youtube.com/watch?v=x_ExpT_1-AU",
+      "duration": 1049.0,
+      "duration_str": "17:29",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "XDosQgmwXR0",
+      "title": "5 Sec Anatomy MCQ Challenge-7 | Thorax Focus",
+      "url": "https://www.youtube.com/watch?v=XDosQgmwXR0",
+      "duration": 239.0,
+      "duration_str": "3:59",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "h2NcMWf-Uto",
+      "title": "5 Sec Anatomy MCQ Challenge-6 | Abdomen Focus!",
+      "url": "https://www.youtube.com/watch?v=h2NcMWf-Uto",
+      "duration": 285.0,
+      "duration_str": "4:45",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "wZyemLnTiTM",
+      "title": "Anatomy MCQ series Thorax",
+      "url": "https://www.youtube.com/watch?v=wZyemLnTiTM",
+      "duration": 392.0,
+      "duration_str": "6:32",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "YeWOLLN_YHY",
+      "title": "5 Sec Anatomy MCQ Challenge-5 | Head, Face & Neck Special!",
+      "url": "https://www.youtube.com/watch?v=YeWOLLN_YHY",
+      "duration": 179.0,
+      "duration_str": "2:59",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "qi49Tvjrn9c",
+      "title": "Foot Drop (Peroneal Palsy): Causes, Symptoms, and Management",
+      "url": "https://www.youtube.com/watch?v=qi49Tvjrn9c",
+      "duration": 343.0,
+      "duration_str": "5:43",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "YlFez_FfIxk",
+      "title": "5 Sec Anatomy MCQ Challenge-4 | NEET PG Rapid Fire Revision",
+      "url": "https://www.youtube.com/watch?v=YlFez_FfIxk",
+      "duration": 150.0,
+      "duration_str": "2:30",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "X0N2Pa7o4QY",
+      "title": "5 Sec Anatomy MCQ Challenge-\"3\" | NEET PG Rapid Fire Revision",
+      "url": "https://www.youtube.com/watch?v=X0N2Pa7o4QY",
+      "duration": 181.0,
+      "duration_str": "3:01",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "Mw7Bz3oV9-k",
+      "title": "5 Sec Anatomy MCQ Challenge-\"2\" | NEET PG Rapid Fire Revision",
+      "url": "https://www.youtube.com/watch?v=Mw7Bz3oV9-k",
+      "duration": 169.0,
+      "duration_str": "2:49",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "PE9ugL0rRxU",
+      "title": "5 Sec Anatomy MCQ Challenge-1 | NEET PG Rapid Fire Revision",
+      "url": "https://www.youtube.com/watch?v=PE9ugL0rRxU",
+      "duration": 187.0,
+      "duration_str": "3:07",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "r3_P3sP5OLI",
+      "title": "Testes Development- Formation of Male Gonad & Reproductive System: Part 1 (Without Background Music)",
+      "url": "https://www.youtube.com/watch?v=r3_P3sP5OLI",
+      "duration": 1316.0,
+      "duration_str": "21:56",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "Kk29tsoPY-Y",
+      "title": "Embryology of Descent of Testes: Testes Development- Part 2 (Now Without Background Music)",
+      "url": "https://www.youtube.com/watch?v=Kk29tsoPY-Y",
+      "duration": 1609.0,
+      "duration_str": "26:49",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "GSNlGxxhdKA",
+      "title": "Embryology of Descent of testes: Testes Development- Part 2",
+      "url": "https://www.youtube.com/watch?v=GSNlGxxhdKA",
+      "duration": 1609.0,
+      "duration_str": "26:49",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "lQIYmOzWYGs",
+      "title": "Public Demand! Development of External Genitalia in Male & Female (Now Without Background Music)",
+      "url": "https://www.youtube.com/watch?v=lQIYmOzWYGs",
+      "duration": 1513.0,
+      "duration_str": "25:13",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "WNg8hwsHz8E",
+      "title": "Ovary Anatomy Mastery",
+      "url": "https://www.youtube.com/watch?v=WNg8hwsHz8E",
+      "duration": 1326.0,
+      "duration_str": "22:06",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "2EKlFL-hm9M",
+      "title": "Surgical Anatomy Mastery",
+      "url": "https://www.youtube.com/watch?v=2EKlFL-hm9M",
+      "duration": 148.0,
+      "duration_str": "2:28",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "u21DKX5t6cQ",
+      "title": "Ansa Cervicalis: A Quick Anatomy and Drawing Tutorial",
+      "url": "https://www.youtube.com/watch?v=u21DKX5t6cQ",
+      "duration": 615.0,
+      "duration_str": "10:15",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "QCyclBcU7OU",
+      "title": "Scapula Anatomy: Unlock Our Udemy Osteology Course for FREE",
+      "url": "https://www.youtube.com/watch?v=QCyclBcU7OU",
+      "duration": 398.0,
+      "duration_str": "6:38",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "LkUBurm_pDM",
+      "title": "Anatomy of Cell : Series",
+      "url": "https://www.youtube.com/watch?v=LkUBurm_pDM",
+      "duration": 432.0,
+      "duration_str": "7:12",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "EGMZ7iyiuY8",
+      "title": "Tubectomy (Tubal Ligation) Explained",
+      "url": "https://www.youtube.com/watch?v=EGMZ7iyiuY8",
+      "duration": 379.0,
+      "duration_str": "6:19",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "49q8UTfMTqU",
+      "title": "Femur SHAFT AND LOWER END",
+      "url": "https://www.youtube.com/watch?v=49q8UTfMTqU",
+      "duration": 2215.0,
+      "duration_str": "36:55",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "kDGxlosMl-o",
+      "title": "Embryology Series: Development & Clinical Insights",
+      "url": "https://www.youtube.com/watch?v=kDGxlosMl-o",
+      "duration": 135.0,
+      "duration_str": "2:15",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "ReYVIBFfhfU",
+      "title": "Female reproductive system-Uterus Anatomy MCQs-Part 3/3 Development, Anomalies and notes",
+      "url": "https://www.youtube.com/watch?v=ReYVIBFfhfU",
+      "duration": 1448.0,
+      "duration_str": "24:08",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "Uz6jSxk8Rrs",
+      "title": "Femur UPPER END",
+      "url": "https://www.youtube.com/watch?v=Uz6jSxk8Rrs",
+      "duration": 2283.0,
+      "duration_str": "38:03",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "RnXWFIyeAtI",
+      "title": "Facial Nerve – Learn the Extracranial Course in Minutes | Draw to Understand",
+      "url": "https://www.youtube.com/watch?v=RnXWFIyeAtI",
+      "duration": 231.0,
+      "duration_str": "3:51",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "xBLX_YGtRb0",
+      "title": "Cryptorchidism (Undescended Testis) | Development, Descent of Testis & Clinical Anatomy",
+      "url": "https://www.youtube.com/watch?v=xBLX_YGtRb0",
+      "duration": 753.0,
+      "duration_str": "12:33",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "7CxtvtZz9e0",
+      "title": "Embryological Development of Uterus and Vagina: A Comprehensive Guide",
+      "url": "https://www.youtube.com/watch?v=7CxtvtZz9e0",
+      "duration": 1456.0,
+      "duration_str": "24:16",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "FpaH-ptGMc4",
+      "title": "Female reproductive system-Anatomy MCQs | Part 2/3 | Explained with Notes",
+      "url": "https://www.youtube.com/watch?v=FpaH-ptGMc4",
+      "duration": 1458.0,
+      "duration_str": "24:18",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "CK7oUlFCeoU",
+      "title": "Female reproductive system-Anatomy MCQs-Part 1/3 | Explained with Notes",
+      "url": "https://www.youtube.com/watch?v=CK7oUlFCeoU",
+      "duration": 1633.0,
+      "duration_str": "27:13",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "_P2-eYra49k",
+      "title": "Portocaval Anastomosis: Key Sites and Clinical Relevance in Portal Hypertension",
+      "url": "https://www.youtube.com/watch?v=_P2-eYra49k",
+      "duration": 1132.0,
+      "duration_str": "18:52",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "wWevK25RJqE",
+      "title": "Mastering Anorectal Anatomy: A Surgeon’s Guide",
+      "url": "https://www.youtube.com/watch?v=wWevK25RJqE",
+      "duration": 2611.0,
+      "duration_str": "43:31",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "j4-dtztcXbs",
+      "title": "Anal Fistula Demystified: A Step-by-Step Surgical Anatomy Guide",
+      "url": "https://www.youtube.com/watch?v=j4-dtztcXbs",
+      "duration": 444.0,
+      "duration_str": "7:24",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "DWRo2TJx9x4",
+      "title": "Inside The Operating Room: Essential Anatomy For Surgeons",
+      "url": "https://www.youtube.com/watch?v=DWRo2TJx9x4",
+      "duration": 436.0,
+      "duration_str": "7:16",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "uCKLdvA4la4",
+      "title": "Anatomy of Carpal tunnel syndrome: Draw to understand",
+      "url": "https://www.youtube.com/watch?v=uCKLdvA4la4",
+      "duration": 174.0,
+      "duration_str": "2:54",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "nTw061SAJLw",
+      "title": "Palatine tonsil Anatomy",
+      "url": "https://www.youtube.com/watch?v=nTw061SAJLw",
+      "duration": 1214.0,
+      "duration_str": "20:14",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "l-T5xcuu6kg",
+      "title": "Understand cubital fossa through a diagram  हिंदी",
+      "url": "https://www.youtube.com/watch?v=l-T5xcuu6kg",
+      "duration": 308.0,
+      "duration_str": "5:08",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "uL7YJ4RmDkw",
+      "title": "Understand the Anatomy of cubital fossa: In हिंदी",
+      "url": "https://www.youtube.com/watch?v=uL7YJ4RmDkw",
+      "duration": 1480.0,
+      "duration_str": "24:40",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "D65camuwAtA",
+      "title": "Understand the Anatomy of inguinal region through diagrams हिंदी",
+      "url": "https://www.youtube.com/watch?v=D65camuwAtA",
+      "duration": 493.0,
+      "duration_str": "8:13",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "04jIs9EF9uI",
+      "title": "हिप जॉइंट आरेख कैसे बनाएं?",
+      "url": "https://www.youtube.com/watch?v=04jIs9EF9uI",
+      "duration": 404.0,
+      "duration_str": "6:44",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "EHgmdhFcBCw",
+      "title": "Consciousness, the Default Mode Network, and Spirituality with Dr. Deepak Ranade",
+      "url": "https://www.youtube.com/watch?v=EHgmdhFcBCw",
+      "duration": 2720.0,
+      "duration_str": "45:20",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "aXdA2vlZa6A",
+      "title": "हिप जॉइंट 2 - (हिन्दी)",
+      "url": "https://www.youtube.com/watch?v=aXdA2vlZa6A",
+      "duration": 1316.0,
+      "duration_str": "21:56",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "k-QwqrmJG_8",
+      "title": "हिप जॉइंट 1 - (हिन्दी)",
+      "url": "https://www.youtube.com/watch?v=k-QwqrmJG_8",
+      "duration": 1671.0,
+      "duration_str": "27:51",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "2OyrCARSQtI",
+      "title": "Thyroid Gland: Draw to understand",
+      "url": "https://www.youtube.com/watch?v=2OyrCARSQtI",
+      "duration": 321.0,
+      "duration_str": "5:21",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "jxm0phXOCrA",
+      "title": "NEET PG-MCQ in Anatomy of Spinal cord -Part 1",
+      "url": "https://www.youtube.com/watch?v=jxm0phXOCrA",
+      "duration": 1243.0,
+      "duration_str": "20:43",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "U4q7XcZ2SIY",
+      "title": "How to study score good marks in Anatomy Theory exam: 2024",
+      "url": "https://www.youtube.com/watch?v=U4q7XcZ2SIY",
+      "duration": 1247.0,
+      "duration_str": "20:47",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "-Uz7LhK-r1E",
+      "title": "How to study for Anatomy University Theory exam: 2024",
+      "url": "https://www.youtube.com/watch?v=-Uz7LhK-r1E",
+      "duration": 1134.0,
+      "duration_str": "18:54",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "LPt2FqqNC7w",
+      "title": "Introduction to the Spinal Cord Series with Dr. Vaishaly Bharambe",
+      "url": "https://www.youtube.com/watch?v=LPt2FqqNC7w",
+      "duration": 387.0,
+      "duration_str": "6:27",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "hqHDKtBXd0Q",
+      "title": "Adductor Canal- ऐडक्टर कैनाल हिन्दी",
+      "url": "https://www.youtube.com/watch?v=hqHDKtBXd0Q",
+      "duration": 1376.0,
+      "duration_str": "22:56",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "tMuEVxpbFFE",
+      "title": "Femoral triangle - फेमोरियल त्रियांगल",
+      "url": "https://www.youtube.com/watch?v=tMuEVxpbFFE",
+      "duration": 1854.0,
+      "duration_str": "30:54",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "QIcvGbf8McQ",
+      "title": "NEET PG-MCQs on Inguinal Region: Part 2| VB Anatomy",
+      "url": "https://www.youtube.com/watch?v=QIcvGbf8McQ",
+      "duration": 1688.0,
+      "duration_str": "28:08",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "vPYSaTwdy1k",
+      "title": "NEET PG-MCQs on Inguinal Region Part 1: Anatomy Essentials | VB Anatomy",
+      "url": "https://www.youtube.com/watch?v=vPYSaTwdy1k",
+      "duration": 1460.0,
+      "duration_str": "24:20",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "8gVN8EXPCa4",
+      "title": "NEET PG-MCQs on Inguinal Region: Part 3 | VB Anatomy",
+      "url": "https://www.youtube.com/watch?v=8gVN8EXPCa4",
+      "duration": 1248.0,
+      "duration_str": "20:48",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "oDgYIFZQtx0",
+      "title": "Inguinal Canal Part-2: Comprehensive Anatomy Guide | Abdomen Anatomy Series",
+      "url": "https://www.youtube.com/watch?v=oDgYIFZQtx0",
+      "duration": 843.0,
+      "duration_str": "14:03",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "BJbeGIEEyz8",
+      "title": "How to draw detailed relations of the Shoulder Joint? Sketch & Recall series.",
+      "url": "https://www.youtube.com/watch?v=BJbeGIEEyz8",
+      "duration": 300.0,
+      "duration_str": "5:00",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "UiDmOzz735Q",
+      "title": "Epithelium Part 3: Glands | VB Anatomy Series",
+      "url": "https://www.youtube.com/watch?v=UiDmOzz735Q",
+      "duration": 873.0,
+      "duration_str": "14:33",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "aHaecncYOdU",
+      "title": "Epithelium Part 2: Tissues in Depth",
+      "url": "https://www.youtube.com/watch?v=aHaecncYOdU",
+      "duration": 1417.0,
+      "duration_str": "23:37",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "Y38keY31sZ0",
+      "title": "Epithelium Part 1: Simple Epithelium",
+      "url": "https://www.youtube.com/watch?v=Y38keY31sZ0",
+      "duration": 1075.0,
+      "duration_str": "17:55",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "WddSJlP0GLk",
+      "title": "Understanding Trisomy Disorders: Down, Edward's, and Patau's Syndromes",
+      "url": "https://www.youtube.com/watch?v=WddSJlP0GLk",
+      "duration": 1533.0,
+      "duration_str": "25:33",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "9TDsYN8576o",
+      "title": "How to Draw Axillary Nerve?: Sketch & Recall Series",
+      "url": "https://www.youtube.com/watch?v=9TDsYN8576o",
+      "duration": 133.0,
+      "duration_str": "2:13",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "h-ZC_wMIzmI",
+      "title": "How to Draw Shoulder Joint Anatomy?: Sketch & Recall Series",
+      "url": "https://www.youtube.com/watch?v=h-ZC_wMIzmI",
+      "duration": 393.0,
+      "duration_str": "6:33",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "AVhQIc6csYw",
+      "title": "How to draw Cubital Fossa Anatomy?: A Comprehensive Sketch and Recall Guide",
+      "url": "https://www.youtube.com/watch?v=AVhQIc6csYw",
+      "duration": 338.0,
+      "duration_str": "5:38",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "F3WFzbCDjis",
+      "title": "Klinefelter's Syndrome Explained: Genetics, Characteristics, and Complications",
+      "url": "https://www.youtube.com/watch?v=F3WFzbCDjis",
+      "duration": 1488.0,
+      "duration_str": "24:48",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "GjoFsDaXDFA",
+      "title": "Understanding Quadrangular & Triangular Spaces: Anatomy and Clinical Relevance #vbanatomy",
+      "url": "https://www.youtube.com/watch?v=GjoFsDaXDFA",
+      "duration": 1128.0,
+      "duration_str": "18:48",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "DOJbSGfTpDE",
+      "title": "Exploring the Cubital Fossa: Anatomy, Boundaries, and Clinical Significance | VB Anatomy.",
+      "url": "https://www.youtube.com/watch?v=DOJbSGfTpDE",
+      "duration": 1369.0,
+      "duration_str": "22:49",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "qePJ__4qSJ8",
+      "title": "Shoulder Joint Anatomy Part 2: Movements, Stability, and Clinical Aspects #vbanatomy",
+      "url": "https://www.youtube.com/watch?v=qePJ__4qSJ8",
+      "duration": 1664.0,
+      "duration_str": "27:44",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "OAZj6SwJi7o",
+      "title": "Shoulder Joint Anatomy 1: A Comprehensive Guide #vbanatomy",
+      "url": "https://www.youtube.com/watch?v=OAZj6SwJi7o",
+      "duration": 1517.0,
+      "duration_str": "25:17",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "9x4Uo6STrps",
+      "title": "Understanding the Pectoral Region: Anatomy and Clinical Insights #vbanatomy",
+      "url": "https://www.youtube.com/watch?v=9x4Uo6STrps",
+      "duration": 1328.0,
+      "duration_str": "22:08",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "KNhLn85ZObE",
+      "title": "Lymphatic drainage of Mammary Gland: Draw to understand | Dr. VB Anatomy",
+      "url": "https://www.youtube.com/watch?v=KNhLn85ZObE",
+      "duration": 387.0,
+      "duration_str": "6:27",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "oQpokoqk2HM",
+      "title": "How to Master studying Anatomy?",
+      "url": "https://www.youtube.com/watch?v=oQpokoqk2HM",
+      "duration": 1161.0,
+      "duration_str": "19:21",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "_3iQ51qoqrE",
+      "title": "How to Master Anatomy Viva: Essential Tips & Strategies | Dr. Vaishaly Bharambe",
+      "url": "https://www.youtube.com/watch?v=_3iQ51qoqrE",
+      "duration": 1018.0,
+      "duration_str": "16:58",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "7BBqG40kHdc",
+      "title": "How to Master Anatomy Theory Exams: Essential Strategies and Tips | Dr. Vaishaly Bharambe",
+      "url": "https://www.youtube.com/watch?v=7BBqG40kHdc",
+      "duration": 988.0,
+      "duration_str": "16:28",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "7Z2AnDlb1g8",
+      "title": "Turner's Syndrome: A Deep Dive into Numerical Chromosomal Anomalies #vbanatomy",
+      "url": "https://www.youtube.com/watch?v=7Z2AnDlb1g8",
+      "duration": 1778.0,
+      "duration_str": "29:38",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "tzOISDgM8rQ",
+      "title": "Decoding Structural Chromosomal Anomalies Part 2: Translocation & Isochromosome #vbanatomy",
+      "url": "https://www.youtube.com/watch?v=tzOISDgM8rQ",
+      "duration": 1552.0,
+      "duration_str": "25:52",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "9K-fWgbg5W0",
+      "title": "Decoding Structural Chromosomal Anomalies Part 1 with Dr. VB #vbanatomy",
+      "url": "https://www.youtube.com/watch?v=9K-fWgbg5W0",
+      "duration": 1448.0,
+      "duration_str": "24:08",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "WC70n7uZ4As",
+      "title": "Knee Joint Ligaments and Movements",
+      "url": "https://www.youtube.com/watch?v=WC70n7uZ4As",
+      "duration": 1835.0,
+      "duration_str": "30:35",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "BukWKNpIGLw",
+      "title": "Knee Joint anatomy",
+      "url": "https://www.youtube.com/watch?v=BukWKNpIGLw",
+      "duration": 1638.0,
+      "duration_str": "27:18",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "gdvrCG7epO0",
+      "title": "How to draw Hip Joint with Dr. Vaishaly Bharambe? | Sketch & Recall",
+      "url": "https://www.youtube.com/watch?v=gdvrCG7epO0",
+      "duration": 427.0,
+      "duration_str": "7:07",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "vl026tY_wWE",
+      "title": "Understanding Barr Body and Lyon Hypothesis with Dr. Vaishaly Bharambe",
+      "url": "https://www.youtube.com/watch?v=vl026tY_wWE",
+      "duration": 1661.0,
+      "duration_str": "27:41",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "QfSg0h4vHSM",
+      "title": "Hip Joint Relations, Movements, and Applied Anatomy",
+      "url": "https://www.youtube.com/watch?v=QfSg0h4vHSM",
+      "duration": 1312.0,
+      "duration_str": "21:52",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "RfAAlyVIGwU",
+      "title": "Hip Joint relevant Anatomy",
+      "url": "https://www.youtube.com/watch?v=RfAAlyVIGwU",
+      "duration": 1751.0,
+      "duration_str": "29:11",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "65rlvwrR8h8",
+      "title": "Norma Lateralis",
+      "url": "https://www.youtube.com/watch?v=65rlvwrR8h8",
+      "duration": 1851.0,
+      "duration_str": "30:51",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "lfUoSBTe9FI",
+      "title": "Decoding Synovial Joints: Types, Structures, and Movements with Dr. Vaishaly Bharambe #anatomy",
+      "url": "https://www.youtube.com/watch?v=lfUoSBTe9FI",
+      "duration": 1196.0,
+      "duration_str": "19:56",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "Bayf3z-4A3k",
+      "title": "Typical Synovial Joint Explained: Anatomy, Structure, and Functions with Dr. VB #anatomy",
+      "url": "https://www.youtube.com/watch?v=Bayf3z-4A3k",
+      "duration": 1289.0,
+      "duration_str": "21:29",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "QcWNZeUJjv8",
+      "title": "How to draw Blood Supply of Long Bone? | VB Anatomy #anatomy",
+      "url": "https://www.youtube.com/watch?v=QcWNZeUJjv8",
+      "duration": 187.0,
+      "duration_str": "3:07",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "z9NELQvLVXA",
+      "title": "Understanding Fibrous and Cartilaginous Joints: An In-depth Anatomy Lecture by Dr. VB #anatomyJoints",
+      "url": "https://www.youtube.com/watch?v=z9NELQvLVXA",
+      "duration": 1048.0,
+      "duration_str": "17:28",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "TamceEFngMg",
+      "title": "General Anatomy of Bone: Part 2 - A Comprehensive Overview with Dr. VB #anatomy",
+      "url": "https://www.youtube.com/watch?v=TamceEFngMg",
+      "duration": 1347.0,
+      "duration_str": "22:27",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "EnqCf9_MvwM",
+      "title": "General Anatomy of Bone: Part 1 - A Comprehensive Overview with Dr. VB #anatomy",
+      "url": "https://www.youtube.com/watch?v=EnqCf9_MvwM",
+      "duration": 1453.0,
+      "duration_str": "24:13",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "vkPQMdYR4vs",
+      "title": "Human Body Donation: A Noble Act for Medical Advancement",
+      "url": "https://www.youtube.com/watch?v=vkPQMdYR4vs",
+      "duration": 1242.0,
+      "duration_str": "20:42",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "JniZDcQs528",
+      "title": "How to Illustrate the Adductor Canal? An All-Inclusive Tutorial #DrawAnatomy",
+      "url": "https://www.youtube.com/watch?v=JniZDcQs528",
+      "duration": 198.0,
+      "duration_str": "3:18",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "DNU8oKO7jmo",
+      "title": "Exploring Genetics: Mendel's Laws Unveiled with Expert Insight",
+      "url": "https://www.youtube.com/watch?v=DNU8oKO7jmo",
+      "duration": 1443.0,
+      "duration_str": "24:03",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "tkc9PGku-NQ",
+      "title": "Venous Drainage of lower limb",
+      "url": "https://www.youtube.com/watch?v=tkc9PGku-NQ",
+      "duration": 1203.0,
+      "duration_str": "20:03",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "ZwRkRYc3XOw",
+      "title": "Adductor Canal",
+      "url": "https://www.youtube.com/watch?v=ZwRkRYc3XOw",
+      "duration": 1091.0,
+      "duration_str": "18:11",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "31wvLPHU_ZY",
+      "title": "How to draw the Femoral Triangle? A Comprehensive Guide #DrawAnatomy",
+      "url": "https://www.youtube.com/watch?v=31wvLPHU_ZY",
+      "duration": 211.0,
+      "duration_str": "3:31",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "FC3M4bOI6Vc",
+      "title": "Comprehensive Guide to the Femoral Artery with Dr. Vaishaly Bharambe",
+      "url": "https://www.youtube.com/watch?v=FC3M4bOI6Vc",
+      "duration": 1327.0,
+      "duration_str": "22:07",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "9Un9EaZIpvc",
+      "title": "Femoral Sheath",
+      "url": "https://www.youtube.com/watch?v=9Un9EaZIpvc",
+      "duration": 1502.0,
+      "duration_str": "25:02",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "D6v6GEG0FBU",
+      "title": "Femoral Triangle",
+      "url": "https://www.youtube.com/watch?v=D6v6GEG0FBU",
+      "duration": 1558.0,
+      "duration_str": "25:58",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "AtiKNmFQ67A",
+      "title": "Submandibular Gland and Submandibular ganglion",
+      "url": "https://www.youtube.com/watch?v=AtiKNmFQ67A",
+      "duration": 1894.0,
+      "duration_str": "31:34",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "RAhVmS65910",
+      "title": "Submandibular Gland Anatomy",
+      "url": "https://www.youtube.com/watch?v=RAhVmS65910",
+      "duration": 1548.0,
+      "duration_str": "25:48",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "LW2LJlSWN9A",
+      "title": "Parotid Gland -2: Advanced Anatomy and Clinical Insights with Dr. Vaishaly Bharambe",
+      "url": "https://www.youtube.com/watch?v=LW2LJlSWN9A",
+      "duration": 1585.0,
+      "duration_str": "26:25",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "_3-KhnZzQoc",
+      "title": "Thyroid Gland : Part-2: Arterial Supply, Development       Development with Dr. Vaishaly Bharambe",
+      "url": "https://www.youtube.com/watch?v=_3-KhnZzQoc",
+      "duration": 1415.0,
+      "duration_str": "23:35",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "12RwGickIjM",
+      "title": "Thyroid Gland : Part -1: Anatomy, Structure, and Clinical Insights with Dr. Vaishaly Bharambe",
+      "url": "https://www.youtube.com/watch?v=12RwGickIjM",
+      "duration": 1413.0,
+      "duration_str": "23:33",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "ysYKEKXsdAc",
+      "title": "Digastric Triangle: An Anatomy Masterclass",
+      "url": "https://www.youtube.com/watch?v=ysYKEKXsdAc",
+      "duration": 1347.0,
+      "duration_str": "22:27",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "ryjg3vGvvi0",
+      "title": "Carotid Triangle: Anatomy, Boundaries, and Clinical Relevance with Dr. Vaishaly Bharambe",
+      "url": "https://www.youtube.com/watch?v=ryjg3vGvvi0",
+      "duration": 1813.0,
+      "duration_str": "30:13",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "CTk7mG3GH0E",
+      "title": "Anterior Triangle: Muscular Triangle & Ansa Cervicalis",
+      "url": "https://www.youtube.com/watch?v=CTk7mG3GH0E",
+      "duration": 1970.0,
+      "duration_str": "32:50",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "geJf-0ZCqOM",
+      "title": "Posterior Triangle: Applied Anatomy",
+      "url": "https://www.youtube.com/watch?v=geJf-0ZCqOM",
+      "duration": 1258.0,
+      "duration_str": "20:58",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "lklHlbHjsBw",
+      "title": "Sternocleidomastoid Muscle in the Posterior Triangle",
+      "url": "https://www.youtube.com/watch?v=lklHlbHjsBw",
+      "duration": 1479.0,
+      "duration_str": "24:39",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "90qfdhQIM_M",
+      "title": "Posterior Triangle: Boundaries & Contents: Anatomy Masterclass with Dr Vaishaly Bharambe #anatomy",
+      "url": "https://www.youtube.com/watch?v=90qfdhQIM_M",
+      "duration": 2126.0,
+      "duration_str": "35:26",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "t-RIwDoO8-I",
+      "title": "Muscles of the Facial Expression (Anatomy simplified) with Dr. Vaishaly Bharambe\"",
+      "url": "https://www.youtube.com/watch?v=t-RIwDoO8-I",
+      "duration": 1747.0,
+      "duration_str": "29:07",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "t072j0mVcmM",
+      "title": "Norma Frontalis: A Detailed Guide with Dr. Vaishaly Bharambe",
+      "url": "https://www.youtube.com/watch?v=t072j0mVcmM",
+      "duration": 1663.0,
+      "duration_str": "27:43",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "Wj0QaRE6Edk",
+      "title": "Norma Occipitalis: An In-depth Exploration with Dr. Vaishaly Bharambe",
+      "url": "https://www.youtube.com/watch?v=Wj0QaRE6Edk",
+      "duration": 848.0,
+      "duration_str": "14:08",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "ivXbyrFxLt0",
+      "title": "Scalp Anatomy Part-2: Blood and nerve supply with Drawings Bharambe",
+      "url": "https://www.youtube.com/watch?v=ivXbyrFxLt0",
+      "duration": 1177.0,
+      "duration_str": "19:37",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "j2pHjGcU-zg",
+      "title": "Scalp Anatomy: Layers, Structures, and Clinical Significance - Part 1",
+      "url": "https://www.youtube.com/watch?v=j2pHjGcU-zg",
+      "duration": 1535.0,
+      "duration_str": "25:35",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "9Os4dxt-4tU",
+      "title": "Deep Cervical Fascia: Part 2, An Anatomical Journey with Dr. Vaishaly Bharambe #anatomy",
+      "url": "https://www.youtube.com/watch?v=9Os4dxt-4tU",
+      "duration": 1744.0,
+      "duration_str": "29:04",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "rQlvyRqqBc0",
+      "title": "Deep Cervical Fascia: Part 1, An Anatomical Journey with Dr. Vaishaly Bharambe #anatomy",
+      "url": "https://www.youtube.com/watch?v=rQlvyRqqBc0",
+      "duration": 1631.0,
+      "duration_str": "27:11",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "zbQe5boD104",
+      "title": "VB Anatomy: Learn, Understand, and Visualize Anatomy",
+      "url": "https://www.youtube.com/watch?v=zbQe5boD104",
+      "duration": 140.0,
+      "duration_str": "2:20",
+      "description": "",
+      "hashtags": []
+    }
+  ]
+}

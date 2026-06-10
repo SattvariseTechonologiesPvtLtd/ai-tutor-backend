@@ -1,0 +1,45 @@
+# =========================================================================
+# CORE SECURITY (User Explicit Request)
+# =========================================================================
+# Ignore environmental variables & secrets
+.env
+.env.*
+
+# =========================================================================
+# PYTHON & ENVIRONMENT BASICS
+# =========================================================================
+# Virtual environments
+venv/
+ENV/
+.venv/
+env/
+
+# Python caching
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================================================================
+# HEAVY MODELS & TRANSFORMS CACHES (Recommended to ignore)
+# =========================================================================
+# Nomic / HuggingFace downloaded models folder (> hundreds of MBs)
+models/
+.locks/
+
+# =========================================================================
+# EXPLICITLY ALLOWED BY USER (Do Not Ignore)
+# =========================================================================
+# The following are explicitly allowed to be tracked and pushed:
+!qdrant_storage/
+!qdrant_storage_playlists/
+!extracted_figures/
+!extracted_figures/images/
+
+# =========================================================================
+# COMPRESSED SEARCH INDEXES (Optional / Usually Ignored but kept open here)
+# =========================================================================
+# If you want to backup your bm25 binaries, leave these commented out.
+# bm25s_index/
+# bm25s_index_book/
+# bm25s_index_playlists/
+# *.pkl

@@ -1,0 +1,418 @@
+{
+  "total_chunks": 171,
+  "layer1_count": 142,
+  "layer2_count": 19,
+  "layer3_count": 10,
+  "playlists": {
+    "Liver_Series": {
+      "topic_area": "abdomen",
+      "chunk_count": 4,
+      "videos": [
+        "A Closer Look at the Bare Areas of the Liver  Anatomy Essentials",
+        "Comprehensive Surgical Anatomy of the Liver  A Must-Know Guide for Surgeons and Medical Students",
+        "Mastering Couinaud Liver Segments  Simplified Anatomy for Quick Learning",
+        "Liver_Series (playlist summary)"
+      ]
+    },
+    "CNS_Series_PG_Entrance_MCQs": {
+      "topic_area": "neuroanatomy",
+      "chunk_count": 4,
+      "videos": [
+        "An overview of the MCQs in Spinal cord series",
+        "NEET PG-MCQ in Anatomy of Spinal cordPart 1",
+        "NEET PG-MCQ in Anatomy of Spinal cord Part 2",
+        "NEET PG-MCQs on Anatomy of Spinal cord Part 3"
+      ]
+    },
+    "Abdomen_Series": {
+      "topic_area": "abdomen",
+      "chunk_count": 19,
+      "videos": [
+        "Anatomical perspectives of Uterine prolapse surgery",
+        "Anatomy of Direct Inguinal Hernia   Abdomen Surgical Anatomy Series",
+        "Anatomy of Indirect Inguinal Hernia   Abdomen Surgical Anatomy Series",
+        "Anatomy of Liver Biopsy  Safe Techniques and Clinical Considerations",
+        "Comprehensive Anatomy of Uterus  Essential Insights for Medical Students and Postgraduate Trainees",
+        "Development of External Genitalia in Male &Female",
+        "Development of Male and female external genitalia  Embryology",
+        "Development of Ovary  A Step-by-Step Explanation",
+        "Embryology of Hydrocele",
+        "Exploring Liver Anatomy  Structure, Function, and Clinical Significance",
+        "Female reproductive system-Anatomy MCQsPart 1   Explained with Notes",
+        "Inguinal CanalPart 2 Comprehensive Anatomy Guide  Abdomen Anatomy Series",
+        "Inguinal Canal Part 1  Anatomy, Function, and Clinical Significance",
+        "Mastering Anorectal Anatomy  A Surgeon\u2019s Guide",
+        "Portocaval Anastomosis  Key Sites and Clinical Relevance in Portal Hypertensio",
+        "Surgical Anatomy of the Portal Vein  Pathways, Branches, and Clinical Importance",
+        "The Missing Testis  Understanding Cryptorchidism",
+        "Uterine prolapse  Key supports of Uterus",
+        "Abdomen_Series (playlist summary)"
+      ]
+    },
+    "Superior_Extremity_Series": {
+      "topic_area": "upper_limb",
+      "chunk_count": 8,
+      "videos": [
+        "Anatomy of Carpal tunnel syndrome",
+        "Comprehensive Guide to Mammary Gland Gross Anatomy& Clinical Applications",
+        "Exploring the Cubital Fossa  Anatomy, Boundaries, and Clinical Significance",
+        "How to dclean detailed relations of the Shoulder Joint Sketch& Recall series",
+        "Understanding Quadrangular & Triangular Spaces  Anatomy and Clinical Relevanc",
+        "Understanding the Pectoral Region  Anatomy and Clinical Insights",
+        "Unlocking the Secrets of the Mammary Gland Dev & Histology Explained",
+        "Superior_Extremity_Series (playlist summary)"
+      ]
+    },
+    "Head_and_Neck_Series": {
+      "topic_area": "head_and_neck",
+      "chunk_count": 15,
+      "videos": [
+        "Anatomy of Larynx Made Easy   Laryngeal Cartilages,Dimensions& Diagrams for Medical Students",
+        "Anatomy of Palatine tonsil",
+        "Applied Anatomy of the Posterior Triangle Insights& Clinical Relevance",
+        "Decoding the Sternocleidomastoid Muscle in the Posterior Triangle",
+        "Facial Nerve (Extracranial Course)",
+        "Mastering the Adductor Canal  A Comprehensive Anatomy Guide",
+        "Norma Frontalis  A Detailed Guide",
+        "Norma Lateralis  An In-depth Exploration of side view of the skull with",
+        "Norma Occipitalis  An In-depth Exploration",
+        "Norma Verticalis",
+        "Posterior Triangle Boundaries& Contents  Anatomy Masterclass",
+        "Scalp AnatomyPart 2  Comprehensive Guide",
+        "Understanding Scalp Anatomy  Layers, Structures,and Clinical SignificancePart 1",
+        "Unraveling the Mysteries of Venous Drainage  An All-encompassing Anatomy Guide",
+        "Head_and_Neck_Series (playlist summary)"
+      ]
+    },
+    "CNS_Spinal_Cord_Series": {
+      "topic_area": "neuroanatomy",
+      "chunk_count": 17,
+      "videos": [
+        "Anatomy of Lesions of spinal cord-2",
+        "Anatomy of Lesions of spinal cordPart 1",
+        "Blood supply of Spinal cord",
+        "Introduction to the Spinal Cord Series",
+        "Mid Brain Anatomy  Crus Cerebri and Substantia Nigra",
+        "Mid Brain Anatomy  Inferior colliculus",
+        "Neuroanatomy lecture  Medulla oblongata  Section at the level pf pyramidal decussation",
+        "Spinal Cord Anatomy  Extrapyramidal tracts",
+        "Spinal Cord  Development",
+        "Spinal Cord  Histology",
+        "Spinal cord Pyramidal Tract+ Lesions",
+        "Spinal cord  Dorsal column pathway-Fasciculus Gracilis and Cuneatus",
+        "Spinal cord  External Features",
+        "Spinal cord  Internal Organization",
+        "Spinal cord  Pain temperature pathway",
+        "Spinal cord  Unconscious Proprioception-Spinocerebellar tracts",
+        "CNS_Spinal_Cord_Series (playlist summary)"
+      ]
+    },
+    "Genetics_series": {
+      "topic_area": "genetics",
+      "chunk_count": 12,
+      "videos": [
+        "Autosomal Recessive Inheritance  Genetics Series",
+        "Decoding Structural Chromosomal AnomaliesPart 1",
+        "Decoding Structural Chromosomal AnomaliesPart 2 Translocation& Isochromosome",
+        "Exploring Genetics  Mendel s Laws Unveiled with Expert Insight",
+        "Genetics Series  Exploring Autosomal Dominant Single Gene Disorders",
+        "Klinefelter s Syndrome Explained  Genetics, Characteristics, and Complications",
+        "Non-Disjunction in Meiosis  Formation of Trisomy and Monosomy",
+        "Turner s Syndrome  A Depth Dive into Numerical Chromosomal Anomalies",
+        "Understanding Barr Body and Lyon Hypothesis",
+        "Understanding Trisomy Disorders  Down, Edward s, and Patau s Syndromes",
+        "Unravelling X-Linked Recessive inheritance  Genetics Series",
+        "Genetics_series (playlist summary)"
+      ]
+    },
+    "Surgical_Anatomy": {
+      "topic_area": "surgical_anatomy",
+      "chunk_count": 3,
+      "videos": [
+        "Breast Implants Explained  Key Anatomy, Surgical Techniques, and Potential Complications",
+        "Breast Surgery  Anatomy, Implants, and Mastectomy Explained",
+        "Piles Demystified  Uncovering the Surgical Anatomy of Haemorrhoids"
+      ]
+    },
+    "Anterior_Triangle_Series": {
+      "topic_area": "head_and_neck",
+      "chunk_count": 4,
+      "videos": [
+        "Carotid Triangle  Anatomy, Boundaries, and Clinical Relevance",
+        "Unlocking the Secrets of the Digastric Triangle  An Anatomy Masterclass",
+        "Unraveling the Anterior Triangle Muscular Triangle& Ansa Cervicalis",
+        "Anterior_Triangle_Series (playlist summary)"
+      ]
+    },
+    "Histology_Series": {
+      "topic_area": "histology",
+      "chunk_count": 6,
+      "videos": [
+        "CellPart 1  Cellular Foundations  Nucleus and Plasma Membrane",
+        "EpitheliumPart 1  Simple Epithelium",
+        "EpitheliumPart 2  Tissues in Depth",
+        "EpitheliumPart 3  Glands",
+        "Microscopic structure of Retina",
+        "Histology_Series (playlist summary)"
+      ]
+    },
+    "Femoral_Region_Series": {
+      "topic_area": "lower_limb",
+      "chunk_count": 4,
+      "videos": [
+        "Comprehensive Guide to the Femoral Artery 2",
+        "Comprehensive Guide to the Femoral Sheath",
+        "Femoral Triangle Explained  Anatomy, Structures, and Clinical Relevance",
+        "Femoral_Region_Series (playlist summary)"
+      ]
+    },
+    "General_Anatomy_Series": {
+      "topic_area": "general_anatomy",
+      "chunk_count": 6,
+      "videos": [
+        "Decoding Synovial Joints  Types, Structures, and Movements",
+        "General Anatomy of Bone Part 1- A Comprehensive Overview",
+        "General Anatomy of Bone Part 2- A Comprehensive Overview",
+        "Typical Synovial Joint Explained  Anatomy, Structure, and Functions",
+        "Understanding Fibrous and Cartilaginous Joints  An In-depth Anatomy Lecture",
+        "General_Anatomy_Series (playlist summary)"
+      ]
+    },
+    "Deep_Cervical_Fascia_Series": {
+      "topic_area": "head_and_neck",
+      "chunk_count": 3,
+      "videos": [
+        "Deep Cervical Fascia Part 1, An Anatomical Journey",
+        "Deep Cervical Fascia Part 2, An Anatomical Journey",
+        "Deep_Cervical_Fascia_Series (playlist summary)"
+      ]
+    },
+    "Histology_Journal_Series": {
+      "topic_area": "histology",
+      "chunk_count": 5,
+      "videos": [
+        "Diagram of Histology of Cerebellum  A step-by-step drawing guide",
+        "Diagram of Histology of thyroid gland  A step by step drawing guide",
+        "Diagram of Transitional epithelium  A step by step drawing guide",
+        "How to Dclean the Microscopic Structure of Salivary Glands   Serous,Mucous& Mixed Glands Made Easy",
+        "Mastering the drawing of Microscopic Bone Anatomy  A Step-by-Step Drawing Guide"
+      ]
+    },
+    "Male_Reproductive_System": {
+      "topic_area": "reproductive",
+      "chunk_count": 4,
+      "videos": [
+        "Embryology of Descent of Testes  Testes Development-Part 2(Now Without Background Music)",
+        "Embryology of Descent of testes  Testes DevelopmentPart 2",
+        "Male Reproductive System Series \u2013 Visual Overview of Developmental Anatomy",
+        "Testes Development - The Formation of Male Gonad and Reproductive System Part 1"
+      ]
+    },
+    "Embryology_Series": {
+      "topic_area": "embryology",
+      "chunk_count": 5,
+      "videos": [
+        "Embryology of the Rectum and Anal Canal  From Cloacal Development to Common Anomalies",
+        "Fertilization Part 1",
+        "Fertilization Part 2",
+        "Fertilization Part 3",
+        "Embryology_Series (playlist summary)"
+      ]
+    },
+    "Face_Series": {
+      "topic_area": "head_and_neck",
+      "chunk_count": 4,
+      "videos": [
+        "Facial Nerve Supply",
+        "Surgical Anatomy of the Thyroid Gland  A Comprehensive Review",
+        "Your Guide to Understanding Muscles of the Facial Expression",
+        "Face_Series (playlist summary)"
+      ]
+    },
+    "Inferior_Extremity_Series": {
+      "topic_area": "lower_limb",
+      "chunk_count": 13,
+      "videos": [
+        "Gluteus Maximus in a Nutshell  Quick Anatomy Review",
+        "HIP BONEPart 4 \u2013 Pubis,Acetabulum& Male\u2013Female Hip Bone Differences",
+        "HIP BONE \u2013PART 1 of 4  Anatomical Position, Ilium",
+        "HIP BONE \u2013PART 2 of 4  Sciatic Notches,Foramina& Gluteal Attachments Simplified",
+        "HIP BONE \u2013PART 3 of 4  Ischium Anatomy Simplified",
+        "Knee Joint SeriesPart 2  Advanced Insights into Ligaments and Movements",
+        "Mastering the Knee Joint Part 1- Anatomy and Ligaments",
+        "Osteology of Femur Part 1",
+        "Osteology of Femur Part 2-Detailed Anatomy and Clinical Significance",
+        "TRENDELENBURG TEST and Gluteus medius and minimus anatomy",
+        "Understanding the Hip Joint 2  Relations, Movements, and Applied Anatomy",
+        "Understanding the Hip Joint Part 1- A Comprehensive Guide",
+        "Inferior_Extremity_Series (playlist summary)"
+      ]
+    },
+    "Female_Reproductive_System": {
+      "topic_area": "reproductive",
+      "chunk_count": 3,
+      "videos": [
+        "Hysterosalpingography (HSG) Procedure  Explore the female reproductive system",
+        "Tubectomy (Tubal Ligation)",
+        "Female_Reproductive_System (playlist summary)"
+      ]
+    },
+    "Neuroanatomy_Series": {
+      "topic_area": "neuroanatomy",
+      "chunk_count": 2,
+      "videos": [
+        "Medulla Oblongata Lesions  A Video Lecture for Neuroanatomy Enthusiasts",
+        "Neuroanatomy_Series (playlist summary)"
+      ]
+    },
+    "Embryology_Series_PG_Entrance_MCQs": {
+      "topic_area": "embryology",
+      "chunk_count": 1,
+      "videos": [
+        "NEET PG-MCQs in Fertilization  with explanation of some key concepts"
+      ]
+    },
+    "Inguinal_Region_Series": {
+      "topic_area": "abdomen",
+      "chunk_count": 4,
+      "videos": [
+        "NEET PG-MCQs on Inguinal RegionPart 1  Anatomy Essentials",
+        "NEET PG-MCQs on Inguinal Region Part 2",
+        "NEET PG-MCQs on Inguinal Region Part 3",
+        "Understand the Anatomy of inguinal region through diagrams"
+      ]
+    },
+    "Glands_of_Head_Neck_Region": {
+      "topic_area": "head_and_neck",
+      "chunk_count": 9,
+      "videos": [
+        "Parotid Gland -1  Comprehensive Anatomy and Clinical Relevance",
+        "Parotid Gland -2  Advanced Anatomy and Clinical Insights",
+        "Submandibular Gland-2 and Submandibular ganglion",
+        "Submandibular Gland -1  Anatomy Unveiled",
+        "Surgical Anatomy of Recurrent laryngeal nerve for Thyroid gland surgeries",
+        "Thyroid Gland-2  Arterial Supply, Relations, and Development",
+        "Thyroid Gland -1  Anatomy, Structure, and Clinical Insights",
+        "Thyroid Gland  Dclean to understand",
+        "Glands_of_Head_Neck_Region (playlist summary)"
+      ]
+    },
+    "Joints_Series": {
+      "topic_area": "general_anatomy",
+      "chunk_count": 4,
+      "videos": [
+        "Shoulder Joint AnatomyPart 2  Movements, Stability, and Clinical Aspects",
+        "Shoulder Joint Anatomy 1  A Comprehensive Guide",
+        "Typical Synovial Joint Explained  Anatomy, Structure, and Functions with",
+        "Joints_Series (playlist summary)"
+      ]
+    },
+    "Osteology": {
+      "topic_area": "general_anatomy",
+      "chunk_count": 2,
+      "videos": [
+        "Understanding the Clavicle  A Detailed Osteological Analysis",
+        "Osteology (playlist summary)"
+      ]
+    },
+    "abdomen": {
+      "topic_area": "abdomen",
+      "chunk_count": 1,
+      "videos": [
+        "abdomen (topic summary)"
+      ]
+    },
+    "neuroanatomy": {
+      "topic_area": "neuroanatomy",
+      "chunk_count": 1,
+      "videos": [
+        "neuroanatomy (topic summary)"
+      ]
+    },
+    "head_and_neck": {
+      "topic_area": "head_and_neck",
+      "chunk_count": 1,
+      "videos": [
+        "head_and_neck (topic summary)"
+      ]
+    },
+    "histology": {
+      "topic_area": "histology",
+      "chunk_count": 1,
+      "videos": [
+        "histology (topic summary)"
+      ]
+    },
+    "upper_limb": {
+      "topic_area": "upper_limb",
+      "chunk_count": 1,
+      "videos": [
+        "upper_limb (topic summary)"
+      ]
+    },
+    "lower_limb": {
+      "topic_area": "lower_limb",
+      "chunk_count": 1,
+      "videos": [
+        "lower_limb (topic summary)"
+      ]
+    },
+    "genetics": {
+      "topic_area": "genetics",
+      "chunk_count": 1,
+      "videos": [
+        "genetics (topic summary)"
+      ]
+    },
+    "general_anatomy": {
+      "topic_area": "general_anatomy",
+      "chunk_count": 1,
+      "videos": [
+        "general_anatomy (topic summary)"
+      ]
+    },
+    "embryology": {
+      "topic_area": "embryology",
+      "chunk_count": 1,
+      "videos": [
+        "embryology (topic summary)"
+      ]
+    },
+    "reproductive": {
+      "topic_area": "reproductive",
+      "chunk_count": 1,
+      "videos": [
+        "reproductive (topic summary)"
+      ]
+    }
+  },
+  "topic_areas": {
+    "abdomen": 28,
+    "neuroanatomy": 24,
+    "upper_limb": 9,
+    "head_and_neck": 36,
+    "genetics": 13,
+    "surgical_anatomy": 3,
+    "histology": 12,
+    "lower_limb": 18,
+    "general_anatomy": 13,
+    "reproductive": 8,
+    "embryology": 7
+  },
+  "content_types": {
+    "main_content": 92,
+    "mcq_revision": 9,
+    "surgical_anatomy": 11,
+    "genetics": 8,
+    "diagram_guide": 4,
+    "embryology": 11,
+    "histology": 7,
+    "playlist_summary": 19,
+    "topic_summary": 10
+  },
+  "hierarchy_levels": {
+    "video": 142,
+    "playlist": 19,
+    "topic": 10
+  }
+}
