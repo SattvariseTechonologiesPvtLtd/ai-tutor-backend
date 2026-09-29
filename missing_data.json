@@ -1,10 +1,28 @@
 {
-  "updated_at": "2026-05-28T06:06:39.828217+00:00",
+  "updated_at": "2026-06-10T16:06:00.132413+00:00",
   "channel": "https://www.youtube.com/@VBAnatomy/videos",
   "min_duration_secs": 120,
-  "total_channel_videos_ge2min": 269,
-  "missing_count": 203,
+  "total_channel_videos_ge2min": 272,
+  "missing_count": 206,
   "videos": [
+    {
+      "id": "lx75OZNnCPs",
+      "title": "Blood Supply of Mammary Gland Made Easy | Arterial Supply, Venous Drainage & Breast Cancer Spread",
+      "url": "https://www.youtube.com/watch?v=lx75OZNnCPs",
+      "duration": 134.0,
+      "duration_str": "2:14",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "i6IxIFUi_uc",
+      "title": "Mammary Gland Development & Histology Made Easy | Embryology, Lactation & Breast Histology Explained",
+      "url": "https://www.youtube.com/watch?v=i6IxIFUi_uc",
+      "duration": 1528.0,
+      "duration_str": "25:28",
+      "description": "",
+      "hashtags": []
+    },
     {
       "id": "Imppldt-SWg",
       "title": "Corticospinal Tract (Pyramidal Tract) Made Easy | Draw and Understand CNS Pathways",
@@ -1028,6 +1046,15 @@
       "url": "https://www.youtube.com/watch?v=xBLX_YGtRb0",
       "duration": 753.0,
       "duration_str": "12:33",
+      "description": "",
+      "hashtags": []
+    },
+    {
+      "id": "0Jg7c6A7Q5o",
+      "title": "Cell Organelles Explained | Mitochondria, Ribosomes, ER, Golgi Apparatus & Lysosomes",
+      "url": "https://www.youtube.com/watch?v=0Jg7c6A7Q5o",
+      "duration": 1565.0,
+      "duration_str": "26:05",
       "description": "",
       "hashtags": []
     },

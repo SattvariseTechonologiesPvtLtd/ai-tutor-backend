@@ -26,7 +26,7 @@ import textbook_retriever
 import chat
 import summarizer
 import classifier
-import youtube_search
+import tts
 
 # ── Env ────────────────────────────────────────────────────────────────
 BASE = Path(__file__).parent
@@ -95,14 +95,8 @@ async def lifespan(app: FastAPI):
     log.info("Initialising classifier…")
     classifier.init(api_key=DS_KEY, base_url=DS_URL)
 
-    log.info("Initialising youtube_search client…")
-    youtube_search.init(api_key=DS_KEY, base_url=DS_URL)
-
-    log.info("Starting YouTube sync in background…")
-    try:
-        asyncio.create_task(asyncio.to_thread(youtube_search.run_background_sync))
-    except Exception as _e:
-        log.warning("YouTube sync task could not start: %s", _e)
+    log.info("Initialising Sarvam TTS client…")
+    tts.init()
 
     log.info("Server ready ✓")
     yield
@@ -296,66 +290,27 @@ async def ask(req: AskRequest):
     )
 
 
-class AskYouTubeRequest(BaseModel):
-    question: str
-    thinking: bool       = False
-    history:  list[dict] = []
+class TTSRequest(BaseModel):
+    text: str
 
 
-@app.post("/ask-youtube")
-async def ask_youtube(req: AskYouTubeRequest):
+@app.post("/tts")
+async def text_to_speech(req: TTSRequest):
     """
-    Manual YouTube search endpoint — triggered by the UI toggle.
-    SSE stream:
-        data: [SEARCHING_YT]          — looking through missing_data.json
-        data: [VIDEO_FOUND] <json>    — title + url of matched video
-        data: [FETCHING_YT]           — downloading transcript
-        data: <token>                 — streamed answer
-        data: [DONE]
-        data: [SOURCES] <json>
+    Convert a message to speech using the Sarvam TTS API.
+    Returns raw WAV audio with Content-Type audio/wav.
     """
-    if not req.question.strip():
-        raise HTTPException(400, "Empty question.")
+    if not req.text.strip():
+        raise HTTPException(400, "Empty text.")
+    try:
+        audio_bytes = await tts.synthesize(req.text)
+    except ValueError as e:
+        raise HTTPException(400, str(e))
+    except RuntimeError as e:
+        raise HTTPException(503, str(e))
 
-    async def _yt_stream():
-        yield f"data: [SEARCHING_YT]\n\n"
-
-        result = await asyncio.to_thread(youtube_search.search, req.question)
-        if not result:
-            msg = "No matching VB Anatomy video found for this topic."
-            yield f"data: {json.dumps(msg)}\n\n"
-            yield "data: [DONE]\n\n"
-            return
-
-        yield f"data: [VIDEO_FOUND] {json.dumps({'title': result['title'], 'url': result['url']})}\n\n"
-        yield f"data: [FETCHING_YT]\n\n"
-
-        transcript = await asyncio.to_thread(youtube_search.fetch_transcript, result["url"])
-        if not transcript:
-            msg = "Found the video but couldn't extract its transcript."
-            yield f"data: {json.dumps(msg)}\n\n"
-            yield "data: [DONE]\n\n"
-            return
-
-        yt_source = [{
-            "index": 1, "title": result["title"],
-            "section": result.get("duration_str", ""),
-            "source": "youtube", "url": result["url"], "score": 1.0,
-        }]
-        async for chunk in chat.stream_answer(
-            question = req.question,
-            context  = f"[YouTube Transcript: {result['title']}]\n{transcript[:6000]}",
-            sources  = yt_source,
-            history  = req.history,
-            thinking = req.thinking,
-        ):
-            yield chunk
-
-    return StreamingResponse(
-        _yt_stream(),
-        media_type = "text/event-stream",
-        headers    = {"Cache-Control": "no-cache", "X-Accel-Buffering": "no"},
-    )
+    from fastapi.responses import Response
+    return Response(content=audio_bytes, media_type="audio/wav")
 
 
 @app.post("/summarize")
