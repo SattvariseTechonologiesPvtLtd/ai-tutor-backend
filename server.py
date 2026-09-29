@@ -13,7 +13,7 @@ from contextlib import asynccontextmanager
 from pathlib import Path
 
 from dotenv import load_dotenv
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, WebSocket
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from fastapi.staticfiles import StaticFiles
@@ -311,6 +311,72 @@ async def text_to_speech(req: TTSRequest):
 
     from fastapi.responses import Response
     return Response(content=audio_bytes, media_type="audio/wav")
+
+
+@app.websocket("/ws/stt")
+async def stt_proxy(websocket: WebSocket):
+    """
+    WebSocket proxy: browser → backend → Sarvam STT.
+    Browser can't set custom headers on WebSocket, so the backend
+    attaches the api-subscription-key header when connecting to Sarvam.
+    """
+    import asyncio
+    import websockets
+
+    api_key = os.getenv("SARVAM_API_KEY") or os.getenv("sarvam_api_key", "")
+    log.info("[STT-PROXY] browser connected, key present=%s", bool(api_key))
+    if not api_key:
+        await websocket.close(code=1011, reason="Sarvam API key not configured")
+        return
+
+    await websocket.accept()
+
+    # Forward query params from the browser WS URL to Sarvam
+    qs = websocket.url.query or ""
+    sarvam_url = f"wss://api.sarvam.ai/speech-to-text-realtime/ws?{qs}"
+    log.info("[STT-PROXY] opening Sarvam socket: %s", sarvam_url)
+
+    try:
+        async with websockets.connect(
+            sarvam_url,
+            additional_headers={"api-subscription-key": api_key},
+        ) as sarvam_ws:
+            log.info("[STT-PROXY] ✅ Sarvam socket open")
+
+            async def forward_to_sarvam():
+                n = 0
+                try:
+                    async for msg in websocket.iter_text():
+                        n += 1
+                        if n <= 3 or n % 20 == 0:
+                            log.info("[STT-PROXY] → Sarvam msg #%d (%d bytes)", n, len(msg))
+                        await sarvam_ws.send(msg)
+                except Exception as e:
+                    log.info("[STT-PROXY] browser→Sarvam loop ended: %s", e)
+                finally:
+                    log.info("[STT-PROXY] browser→Sarvam total msgs: %d", n)
+
+            async def forward_to_browser():
+                try:
+                    async for msg in sarvam_ws:
+                        text = msg if isinstance(msg, str) else msg.decode("utf-8", "replace")
+                        log.info("[STT-PROXY] ← Sarvam: %s", text[:160])
+                        if isinstance(msg, bytes):
+                            await websocket.send_bytes(msg)
+                        else:
+                            await websocket.send_text(msg)
+                except Exception as e:
+                    log.info("[STT-PROXY] Sarvam→browser loop ended: %s", e)
+
+            await asyncio.gather(forward_to_sarvam(), forward_to_browser())
+            log.info("[STT-PROXY] both loops finished")
+
+    except Exception as e:
+        log.error("[STT-PROXY] ❌ error: %s", e)
+        try:
+            await websocket.close(code=1011, reason=str(e))
+        except Exception:
+            pass
 
 
 @app.post("/summarize")
